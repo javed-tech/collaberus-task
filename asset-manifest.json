@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/collaberus-task/static/css/main.6dc2255c.chunk.css",
+    "main.js": "/collaberus-task/static/js/main.4e2ee52d.chunk.js",
+    "main.js.map": "/collaberus-task/static/js/main.4e2ee52d.chunk.js.map",
+    "runtime-main.js": "/collaberus-task/static/js/runtime-main.1f7f6a04.js",
+    "runtime-main.js.map": "/collaberus-task/static/js/runtime-main.1f7f6a04.js.map",
+    "static/css/2.07367e3e.chunk.css": "/collaberus-task/static/css/2.07367e3e.chunk.css",
+    "static/js/2.dab27fa0.chunk.js": "/collaberus-task/static/js/2.dab27fa0.chunk.js",
+    "static/js/2.dab27fa0.chunk.js.map": "/collaberus-task/static/js/2.dab27fa0.chunk.js.map",
+    "static/js/3.9e36a1e3.chunk.js": "/collaberus-task/static/js/3.9e36a1e3.chunk.js",
+    "static/js/3.9e36a1e3.chunk.js.map": "/collaberus-task/static/js/3.9e36a1e3.chunk.js.map",
+    "index.html": "/collaberus-task/index.html",
+    "static/css/2.07367e3e.chunk.css.map": "/collaberus-task/static/css/2.07367e3e.chunk.css.map",
+    "static/css/main.6dc2255c.chunk.css.map": "/collaberus-task/static/css/main.6dc2255c.chunk.css.map",
+    "static/js/2.dab27fa0.chunk.js.LICENSE.txt": "/collaberus-task/static/js/2.dab27fa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f7f6a04.js",
+    "static/css/2.07367e3e.chunk.css",
+    "static/js/2.dab27fa0.chunk.js",
+    "static/css/main.6dc2255c.chunk.css",
+    "static/js/main.4e2ee52d.chunk.js"
+  ]
+}
