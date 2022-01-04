@@ -9,12 +9,14 @@ class Myreact3 extends React.Component{
         console.log("this is props =",this.props.name);
     }
     componentDidUpdate(){
-        console.log("this is updated props ="+this.props.name);
+        console.log(" props updated ",this.props.name);
     } 
     render(){
         return(
             <div>
                 <h2>{this.props.name}</h2>
+                <h2>{this.props.home}</h2>
+
             </div>
         )
     }
